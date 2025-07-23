@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Reinhart!
 
-I'm a full-stack engineer specializing in backend systems, smart contracts, and high-frequency trading infrastructure. Currently building **byScript.io**, an algorithmic trading platform that removes emotion from trading. Connect your CEX accounts and integrate strategy.
+Co-founder of byScript.io. I'm a full-stack engineer specializing in backend systems, smart contracts, and high-frequency trading infrastructure. Currently building **byScript.io**, an algorithmic trading platform that removes emotion from trading. Connect your CEX accounts and integrate strategy. High interest on Web3 smart contract and applications
 
 ## 🧠 What I Do
 
@@ -27,14 +27,20 @@ I'm a full-stack engineer specializing in backend systems, smart contracts, and 
 - Custodial wallet infra
 - Mint-on-mention + revenue sharing logic
 - Built with Firestore (migrating to Postgres), Cloud Functions, and Solidity -->
-### 🐦 byScript.io
+### 🐦 byScript.io [Go to byScript!](https://www.byscript.io/)
 > Algorithmic trading platform. Remove emotion from trading. Connect your CEX accounts and integrate strategy.
 - Automated BUY-SELL orders, using Market or Limit Orders
 - Connect Binance, OKX, Gate.io, Kraken, Bybit, and many more
 - $SCRIPT utility token (coming soon)
 - Join as affiliate and get 30% revenue on every sale on your referral link
+  
+### 🧠 IDRX Non-custodial Payment Gateway on Lisk Chain [go to OmniumPay](https://www.omnium-pg.vercel.app/)
+> On-chain vaults authorized via signed Merkle roots
+- Permissionless vault instantiation with signature verification
+- Off-chain strategy DB + Merkle proof generator
+- Full on-chain execution authorization via pre-signed hashes
 
-### 🧠 Strategy Vault Factory
+### 🧠 Strategy Vault Factory ([go to AxoraVault](https://fe-axora-vault-fork.vercel.app))
 > On-chain vaults authorized via signed Merkle roots
 - Permissionless vault instantiation with signature verification
 - Off-chain strategy DB + Merkle proof generator
