@@ -60,7 +60,8 @@ Co-founder of byScript.io, building Tweetonium.xyz. I'm a full-stack engineer sp
 - Off-chain strategy DB + Merkle proof generator
 - Full on-chain execution authorization via pre-signed hashes
 <!--[axora](assets/axora.png)
-[axora](assets/axora-connectwallet.png)
+[axora](assets/axora-connectwallet.png)<img width="1415" height="907" alt="axora-bridge" src="https://github.com/user-attachments/assets/859ce209-1a78-41d1-aec9-7273c50420fa" />
+
 [axora](assets/axora-strategist.png)
 [axora](assets/axora-vaultdetail.png)
 [axora](assets/axora-vault.png)-->
