@@ -59,6 +59,11 @@ Co-founder of byScript.io, building Tweetonium.xyz. I'm a full-stack engineer sp
 - Permissionless vault instantiation with signature verification
 - Off-chain strategy DB + Merkle proof generator
 - Full on-chain execution authorization via pre-signed hashes
+[axora](assets/axora.png)
+[axora](assets/axora-connectwallet.png)
+[axora](assets/axora-strategist.png)
+[axora](assets/axora-vaultdetail.png)
+[axora](assets/axora-vault.png)
 
 ## 💻 Tech Stack
 
