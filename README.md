@@ -32,38 +32,38 @@ Co-founder of byScript.io, building Tweetonium.xyz. I'm a full-stack engineer sp
 - $SCRIPT utility token (coming soon)
 - Join as affiliate and get 30% revenue on every sale on your referral link
 [byscript](assets/byscript.png)
-[byscript-autotraderdetail](assets/byscript-autotraderdetail.png)
+<!--[byscript-autotraderdetail](assets/byscript-autotraderdetail.png)
 [byscript-dashboard](assets/byscript-dashboard.png)
-[byscript-profile](assets/byscript-profile.png)
+[byscript-profile](assets/byscript-profile.png)-->
 
 ### 🧠 Tweetonium - Tweet to Mint NFT on Solana (fullstack) [go to Tweetoniu](https://www.tweetonium.xyz/)
 > Tweet to mint NFTs on Solana, SocialFi app
 - Help digital artists trade their artworks without hassle
 - Simplified Web3 experience - no web3 knowledge required
-[tweet](assets/twt.png)
+<!--[tweet](assets/twt.png)
 [tweet-home](assets/twt-home.png)
-[tweet-nftdetail](assets/twt-nftdetail.png)
+[tweet-nftdetail](assets/twt-nftdetail.png)-->
 
 ### 🧠 IDRX Non-custodial Payment Gateway on Lisk Chain (fullstack + smart contract) [go to OmniumPay](https://www.omnium-pg.vercel.app/)
 > On-chain vaults authorized via signed Merkle roots
 - Permissionless vault instantiation with signature verification
 - Off-chain strategy DB + Merkle proof generator
 - Full on-chain execution authorization via pre-signed hashes
-[omnium](assets/omnium.png)
+<!--[omnium](assets/omnium.png)
 [omnium-merchant2](assets/omnium-merchant2.png)
 [omnium-appactivity](assets/omnium-appactivity.png)
-[omnium-connectwallet](assets/omnium-connectwallet.png)
+[omnium-connectwallet](assets/omnium-connectwallet.png)-->
 
 ### 🧠 Strategy Vault Factory (smart contract) ([go to AxoraVault](https://fe-axora-vault-fork.vercel.app))
 > On-chain vaults authorized via signed Merkle roots
 - Permissionless vault instantiation with signature verification
 - Off-chain strategy DB + Merkle proof generator
 - Full on-chain execution authorization via pre-signed hashes
-[axora](assets/axora.png)
+<!--[axora](assets/axora.png)
 [axora](assets/axora-connectwallet.png)
 [axora](assets/axora-strategist.png)
 [axora](assets/axora-vaultdetail.png)
-[axora](assets/axora-vault.png)
+[axora](assets/axora-vault.png)-->
 
 ## 💻 Tech Stack
 
