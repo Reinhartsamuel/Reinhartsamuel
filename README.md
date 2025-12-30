@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Reinhart!
 
-Co-founder of byScript.io, building Tweetonium.xyz. I'm a full-stack engineer specializing in backend systems, smart contracts, and high-frequency trading infrastructure. Currently building **byScript.io**, an algorithmic trading platform that removes emotion from trading. Connect your CEX accounts and integrate strategy. High interest on Web3 smart contract and applications
+I’m a trading systems engineer focused on execution infrastructure. I’ve built and operated automated trading platforms that connect to centralized exchanges, handle live order and position state, and support real users trading real capital. My work is mostly backend and reliability-focused rather than research-heavy. High interest on Web3 smart contract and applications
 
 ## 🧠 What I Do
 
