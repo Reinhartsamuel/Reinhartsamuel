@@ -1,94 +1,164 @@
-# 👋 Hey, I'm Reinhart!
+# Reinhart Samuel
 
-I’m a trading systems engineer focused on execution infrastructure. I’ve built and operated automated trading platforms that connect to centralized exchanges, handle live order and position state, and support real users trading real capital. My work is mostly backend and reliability-focused rather than research-heavy. High interest on Web3 smart contract and applications
+**Backend-focused Full-Stack Engineer · Trading Systems · Fintech · Web3**
 
-## 🧠 What I Do
+I build production software for financial and blockchain applications.
 
-- 🧪 **Product Hacking**
-  Fast prototyping for real users. Hackathon alum. User-focused, but allergic to bloated frontends.
+My strongest experience is in backend systems and financial infrastructure — particularly
+trading execution, exchange integrations, APIs, databases, asynchronous workflows, and
+reliability.
 
-- ⚙️ **Backend & Systems**
-  Crafting scalable APIs, trading bots, and complex strategy automation pipelines. Strong preference for Node.js, PostgreSQL, Firebase BAAS, and serverless infra.
+I've also built smart contracts and Web3 applications across EVM and Solana, from DeFi
+vaults and payment infrastructure to consumer-facing blockchain products.
 
-- 🔐 **Smart Contracts**
-  Writing and auditing Solidity contracts with a focus on safety, minimalism, and permissionless logic. Tooling: Foundry, Ethers.js, Viem, Anvil.
-
-- 🧬 **DeFi Engineering**
-  Deep into protocol integrations (Uniswap, Aave, Balancer), custom strategy vaults, and Merkle-proof-based on-chain authorization.
-
-
-## ⚡️ Projects & Portfolios
-
-<!-- ### 🐦 Tweetonium
-> NFT minting via Twitter. For creators. No wallets needed.
-- Mention bot listener that triggers web3 actions
-- Custodial wallet infra
-- Mint-on-mention + revenue sharing logic
-- Built with Firestore (migrating to Postgres), Cloud Functions, and Solidity -->
-### 🐦 byScript.io (fullstack) [Go to byScript!](https://www.byscript.io/)
-> Algorithmic trading platform. Remove emotion from trading. Connect your CEX accounts and integrate strategy.
-- Automated BUY-SELL orders, using Market or Limit Orders
-- Connect Binance, OKX, Gate.io, Kraken, Bybit, and many more
-- $SCRIPT utility token (coming soon)
-- Join as affiliate and get 30% revenue on every sale on your referral link
-[byscript](assets/byscript.png)
-<!--[byscript-autotraderdetail](assets/byscript-autotraderdetail.png)
-[byscript-dashboard](assets/byscript-dashboard.png)
-[byscript-profile](assets/byscript-profile.png)-->
-
-### 🧠 Tweetonium - Tweet to Mint NFT on Solana (fullstack) [go to Tweetoniu](https://www.tweetonium.xyz/)
-> Tweet to mint NFTs on Solana, SocialFi app
-- Help digital artists trade their artworks without hassle
-- Simplified Web3 experience - no web3 knowledge required
-<!--[tweet](assets/twt.png)
-[tweet-home](assets/twt-home.png)
-[tweet-nftdetail](assets/twt-nftdetail.png)-->
-
-### 🧠 IDRX Non-custodial Payment Gateway on Lisk Chain (fullstack + smart contract) [go to OmniumPay](https://www.omnium-pg.vercel.app/)
-> On-chain vaults authorized via signed Merkle roots
-- Permissionless vault instantiation with signature verification
-- Off-chain strategy DB + Merkle proof generator
-- Full on-chain execution authorization via pre-signed hashes
-<!--[omnium](assets/omnium.png)
-[omnium-merchant2](assets/omnium-merchant2.png)
-[omnium-appactivity](assets/omnium-appactivity.png)
-[omnium-connectwallet](assets/omnium-connectwallet.png)-->
-
-### 🧠 Strategy Vault Factory (smart contract) ([go to AxoraVault](https://fe-axora-vault-fork.vercel.app))
-> On-chain vaults authorized via signed Merkle roots
-- Permissionless vault instantiation with signature verification
-- Off-chain strategy DB + Merkle proof generator
-- Full on-chain execution authorization via pre-signed hashes
-<!--[axora](assets/axora.png)
-[axora](assets/axora-connectwallet.png)<img width="1415" height="907" alt="axora-bridge" src="https://github.com/user-attachments/assets/859ce209-1a78-41d1-aec9-7273c50420fa" />
-
-[axora](assets/axora-strategist.png)
-[axora](assets/axora-vaultdetail.png)
-[axora](assets/axora-vault.png)-->
-
-## 💻 Tech Stack
-
-\`\`\`ts
-Languages:   TypeScript • Javascript • Solidity • SQL • no-SQL
-Backend:     Express • Next.js • Node.js • Firebase • Supabase • PostgreSQL
-Smart Contracts:   EVM • Foundry • Viem • Wagmi • Ethers.js • Hardhat (legacy)
-Frontends:   Next.js • React JS • Web3JS • TailwindCSS • RainbowKit • Wagmi
-DevOps:      GitHub Actions CI/CD • Railway • Vercel • AWS
-\`\`\`
-
-## 🧠 Current Learning
-
-- EVM, SVM
-- Optimization & cost-reduction for backend API, backend backend infra optimization, and frontend user interface optimization
-- Protocol-specific quirks in DeFi (e.g. undercollateralized lending, trust-based defi economy, Merkle trees & proofs, Solana NFTs)
-- Low-latency system design for trading automation
-
-## 📫 Contact
-
-- [X / Twitter](https://twitter.com/reyyyn_hart) – DMs open
-- [Telegram](https://t.me/reinhartsamuel) – Ask me for @
-- Discord – -comingsoon-#🧠
+Currently building [byScript.io](https://www.byscript.io/), an algorithmic trading platform.
 
 ---
 
-“**Build fast. Think deep. Ship something users will actually use.**”
+## What I Build
+
+### ⚙️ Backend & Financial Systems
+
+- Production REST APIs and backend services
+- Trading execution engines and automation
+- CEX integrations and exchange APIs
+- Order lifecycle & position management
+- Reconciliation and failure recovery
+- PostgreSQL database architecture
+- Background workers & asynchronous processing
+- Redis / messaging infrastructure
+- Cloud deployment & CI/CD
+
+### ⛓️ Blockchain & Smart Contracts
+
+- Solidity / EVM
+- Foundry
+- ERC-20 / ERC-4626
+- DeFi protocols & vaults
+- Wallet & transaction flows
+- On-chain/off-chain architecture
+- Solana development
+
+### 🧩 Full-Stack Product Development
+
+I can take a product from idea → architecture → implementation → deployment →
+production.
+
+---
+
+# Selected Projects
+
+## byScript.io — Algorithmic Trading Platform
+
+**Co-founder · Full-Stack / Backend Engineer**
+
+[Website](https://www.byscript.io/)
+
+Production algorithmic trading platform for automated cryptocurrency trading.
+
+- Built backend infrastructure for automated trade execution
+- Integrated multiple centralized exchanges including Gate, OKX and Hyperliquid
+- Implemented order lifecycle and position management
+- Handled partial fills, rate limits and exchange-specific failure cases
+- Built APIs, databases and background workers supporting trading operations
+- Worked on systems handling real users and real trading capital
+
+**Stack:** TypeScript, Node.js, PostgreSQL, Redis, React, Next.js, GCP
+
+---
+
+## OmniumPay — IDRX Payment Gateway
+
+**Full-Stack · Smart Contracts**
+
+[Demo](https://www.omnium-pg.vercel.app/)
+
+Permissionless payment gateway built on Lisk using IDRX, an Indonesian Rupiah-backed
+ERC-20 token.
+
+- Designed smart contract payment flows
+- Built backend and frontend integrations
+- Implemented wallet and transaction flows
+- Connected on-chain transactions with off-chain application logic
+
+**Stack:** Solidity, Foundry, TypeScript, React, Viem, Lisk
+
+---
+
+## AxoraVault — DeFi Strategy Vault
+
+**Smart Contract Engineer**
+
+[Demo](https://fe-axora-vault-fork.vercel.app/)
+
+DeFi strategy vault infrastructure designed around permissionless vault creation and
+off-chain strategy authorization.
+
+- Built and tested Solidity smart contracts
+- Permissionless vault instantiation
+- Merkle-proof based authorization
+- Off-chain strategy management
+- On-chain execution authorization
+
+**Stack:** Solidity, Foundry, EVM, Viem
+
+---
+
+## Tweetonium — SocialFi / NFT Platform
+
+**Full-Stack Engineer**
+
+[Website](https://www.tweetonium.xyz/)
+
+A Solana application allowing creators to mint NFTs through social interactions.
+
+- Built backend services and application flows
+- Integrated Solana wallets and transactions
+- Implemented NFT minting infrastructure
+- Designed a simplified Web3 experience for non-crypto users
+
+**Stack:** TypeScript, Solana, Metaplex, React, Node.js
+
+---
+
+# Tech
+
+**Languages**
+
+TypeScript · JavaScript · Solidity · SQL
+
+**Backend**
+
+Node.js · Bun · Hono · REST APIs · WebSockets · PostgreSQL · Redis
+
+**Blockchain**
+
+EVM · Solidity · Foundry · Viem · Wagmi · Ethers.js · Solana · Metaplex
+
+**Frontend**
+
+React · Next.js · Tailwind CSS
+
+**Infrastructure**
+
+AWS · GCP · Railway · Vercel · Docker · GitHub Actions
+
+---
+
+# Open Source
+
+### Clawguard AI
+
+Spend policies and safeguards for AI agent workflows.
+
+[GitHub](YOUR_LINK)
+
+---
+
+# Connect
+
+[LinkedIn](YOUR_LINK) · [GitHub](YOUR_LINK) · [X](https://twitter.com/reyyyn_hart)
+
+---
+
+> Build things that work. Then make them reliable.
